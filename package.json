@@ -17,7 +17,7 @@
 , "dependencies" :
   { "socket.io" : ""
   , "redis" : ""
-  , "node-static-maccman" : "git://github.com/maccman/node-static.git#master"
+  , "node-static-marshallbu" : "git://github.com/marshallbu/node-static.git#master"
   , "optimist": "~0.2.3"
   }
 }
